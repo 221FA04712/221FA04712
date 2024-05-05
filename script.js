@@ -1,4 +1,4 @@
-//menu responsive functionalily
+
 const menuList = document.getElementById("menu");
 const hamburgerBtn = document.getElementById("hamburger");
 
